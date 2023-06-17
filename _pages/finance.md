@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: <center>财务分析
-permalink: /background/
+permalink: /finance/
 author_profile: true
 ---
 
