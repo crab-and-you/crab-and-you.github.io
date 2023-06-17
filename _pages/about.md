@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: <center>"关于我们"
+title: <center>关于我们
 excerpt: "About me"
 author_profile: true
 redirect_from: 
