@@ -3,9 +3,6 @@ permalink: /
 title: <center>关于我们
 excerpt: "About me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 “蟹蟹有你”项目意在为高淳县中进行大闸蟹养殖的农民提供一套涉及捕捞、售卖与宣传的全年生产方案，并以高淳为例，推广向全国拥有相似条件与环境的城镇。
